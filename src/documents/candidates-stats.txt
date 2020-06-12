@@ -1,0 +1,4 @@
+True Blend::5013
+Not Blend::11703
+Typo Count::6153
+Total Words::16716

@@ -1,0 +1,4 @@
+True Blend::2
+Not Blend::39
+Typo Count::4
+Total Words::41

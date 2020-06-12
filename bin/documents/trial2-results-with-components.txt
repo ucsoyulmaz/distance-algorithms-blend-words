@@ -1,0 +1,2 @@
+aahhaha aah haha ---> true
+aahora aah ora ---> true
